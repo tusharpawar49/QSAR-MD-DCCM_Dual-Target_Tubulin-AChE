@@ -1,0 +1,15 @@
+  # Frame#            Type            Site       MetalSite   Distance
+       616       prot-side    A:ASP_72:OD1       prot-side      2.510 
+       616       prot-side    A:ASP_72:OD2       prot-side      2.820 
+       616          ligand  L-FRAG_0:O8390          ligand      2.680 
+       829       prot-side    A:ASP_72:OD1       prot-side      2.260 
+       829       prot-side    A:ASP_72:OD2       prot-side      3.270 
+       829          ligand  L-FRAG_0:O8390          ligand      2.710 
+       832       prot-side    A:ASP_72:OD1       prot-side      2.470 
+       832          ligand  L-FRAG_0:O8390          ligand      2.520 
+       833       prot-side    A:ASP_72:OD1       prot-side      2.410 
+       833       prot-side    A:ASP_72:OD2       prot-side      2.550 
+       833       prot-side    A:ASN_85:OD1       prot-side      2.510 
+       833          ligand  L-FRAG_0:O8390          ligand      2.570 
+       834       prot-side    A:ASP_72:OD1       prot-side      2.580 
+       834          ligand  L-FRAG_0:O8390          ligand      2.920 
